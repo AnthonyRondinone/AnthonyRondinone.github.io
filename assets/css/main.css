@@ -252,6 +252,11 @@
 		top: 2px;
 	}
 
+	.game-gif {
+		width: 100%;
+		
+	}
+
 	.skills {
 		font-size: 90px;
 		padding: inherit;
