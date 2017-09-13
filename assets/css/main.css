@@ -237,6 +237,19 @@
 		flex-wrap: wrap;
 	}
 
+
+.phone-email-contain {
+	display: flex;
+	flex-direction: column;
+}
+
+.email-contain {
+	margin: auto;
+	list-style: none;
+	position: relative;
+	bottom: 20px
+}
+
 	.phone-contain {
 		display: flex;
 		align-items: baseline;
