@@ -244,6 +244,9 @@
 		flex-wrap: wrap;
 	}
 
+.link-to:hover {
+	cursor: pointer;
+}
 
 .phone-email-contain {
 	display: flex;
@@ -256,6 +259,7 @@
 	position: relative;
 	bottom: 20px
 }
+
 
 	.phone-contain {
 		display: flex;
@@ -668,6 +672,10 @@
 	}
 
 /* Image */
+
+	.link-to:hover {
+		cursor: pointer;
+	}
 
 	.image {
 		border-radius: 4px;
