@@ -652,12 +652,17 @@
 			height: 100%;
 			object-fit: cover;
 			overflow: hidden;
+			display: flex;
+			justify-content: center;
+			align-items: flex-end;
 		}
 
 	.profile {
-		/*max-width: 100%;*/
-    max-height: 100%;
+    max-height: 110%;
 		margin: auto;
+		position: relative;
+		left: 10px;
+		bottom: 10px;
 	}
 
 	.profile:before {
